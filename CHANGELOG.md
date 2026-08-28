@@ -32,3 +32,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   larry@moran.bot — same channel, human-relayed. FIRST-TRIP now asks the
   standing-grants question exactly as the quickstart scripts it.
 - **Ship 34 (run-004 fixes).** FIRST-TRIP splice repaired (the standing-grants item now sits after the identity-policy item, whole sentences both); kit v10 (quickstart + spawn-set revisions).
+- **The quarry window.** The paste-able first instruction lands as its own
+  file; the one-hand opener, the blank-OS line, and the style contract join
+  the README; the brain-audible coaching quote joins FIRST-TRIP. Additions
+  only, per the frozen mount spec.
