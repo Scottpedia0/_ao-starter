@@ -13,3 +13,9 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
 - **Lineage wording repaired.** The README and FIRST-TRIP now name this
   repo — the blank twin — as the template, with the pattern's documents at
   the _ao repo. The old wording predated the template flag's move here.
+- **The serve layer (r13-serve v6).** `ai-quickstart.md` lands at root — the
+  executable do-path for an AI setting up its human's AO — with `templates/`
+  (seven working files: supervisor-brief, operating-contract, agent-roster,
+  boundaries, EXPERIENCE_SHARING, context-checklist, spawn-set). The
+  `contracts/` stubs stay as placeholders; the quickstart's flow replaces
+  each with the filled template of the same name during the first trip.
