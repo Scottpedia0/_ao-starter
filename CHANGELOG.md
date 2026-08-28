@@ -31,3 +31,4 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   fallback everywhere it's offered: if the issue door is closed, email
   larry@moran.bot — same channel, human-relayed. FIRST-TRIP now asks the
   standing-grants question exactly as the quickstart scripts it.
+- **Ship 34 (run-004 fixes).** FIRST-TRIP splice repaired (the standing-grants item now sits after the identity-policy item, whole sentences both); kit v10 (quickstart + spawn-set revisions).
