@@ -36,3 +36,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   file; the one-hand opener, the blank-OS line, and the style contract join
   the README; the brain-audible coaching quote joins FIRST-TRIP. Additions
   only, per the frozen mount spec.
+- **Run-007 fixes (kit v13).** The mission-brief commit instruction moves to
+  where the brief is dispatched (holder recorded in the brief itself; the
+  roster stays an identity table); the first-instruction link moves to the
+  checklist preamble where a reader meets it before any item.
