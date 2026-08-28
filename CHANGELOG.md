@@ -19,3 +19,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   boundaries, EXPERIENCE_SHARING, context-checklist, spawn-set). The
   `contracts/` stubs stay as placeholders; the quickstart's flow replaces
   each with the filled template of the same name during the first trip.
+- **Fix cycle from formal-run-001 (kit v7).** The quickstart and two
+  templates (operating-contract, supervisor-brief) revised from the first
+  formal arrival run's findings; FIRST-TRIP's bar is now "useful the first
+  time" — the ruled standard — not "impressive."
