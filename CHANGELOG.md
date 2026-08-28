@@ -27,3 +27,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   a standard MIT LICENSE file lands at root — making the doctrine's "the
   starter is MIT" true on disk — and FIRST-TRIP carries its license/relay
   notice under the title.
+- **Fix cycle 3 (run-003's one door).** The challenge channel gains its
+  fallback everywhere it's offered: if the issue door is closed, email
+  larry@moran.bot — same channel, human-relayed. FIRST-TRIP now asks the
+  standing-grants question exactly as the quickstart scripts it.
