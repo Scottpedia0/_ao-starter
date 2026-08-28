@@ -10,3 +10,6 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   [Scottpedia0/_ao](https://github.com/Scottpedia0/_ao) so the template
   ships truly blank. The template flag lives here; the documents, the
   argument, and the maintainers live in the _ao repo.
+- **Lineage wording repaired.** The README and FIRST-TRIP now name this
+  repo — the blank twin — as the template, with the pattern's documents at
+  the _ao repo. The old wording predated the template flag's move here.
