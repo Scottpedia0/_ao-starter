@@ -23,3 +23,7 @@ AO's own changes belong in your own ledger; this file tracks the skeleton.
   templates (operating-contract, supervisor-brief) revised from the first
   formal arrival run's findings; FIRST-TRIP's bar is now "useful the first
   time" — the ruled standard — not "impressive."
+- **Fix cycle 2 (run-002 findings, kit v8).** The quickstart revised again;
+  a standard MIT LICENSE file lands at root — making the doctrine's "the
+  starter is MIT" true on disk — and FIRST-TRIP carries its license/relay
+  notice under the title.
